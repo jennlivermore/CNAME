@@ -1,6 +1,6 @@
 body {
 	font-family: Times, Times-Roman, Times New Roman, serif;
-	font-size: 1.8em;
+	font-size: 2.25em;
 	margin: 2.25em;
 }
 
@@ -13,7 +13,8 @@ h1 {
 }
 
 strong {
-	background-color: white; 
+	background-color: white;
+	border: 1px solid white; 
 	font-weight: normal;
 	color: #3a3a3a;
 }
