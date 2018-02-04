@@ -2,6 +2,7 @@ body {
 	font-family: Times, Times-Roman, Times New Roman, serif;
 	font-size: 2.25em;
 	margin: 2.25em;
+	line-height: .99em;
 }
 
 h1 {
@@ -20,7 +21,7 @@ strong {
 }
 
 span {
-	background-color: pink;
+	background-color: black;
 }
 
 span::selection {background-color: #e2e2e2;}
