@@ -20,7 +20,7 @@ strong {
 }
 
 span {
-	background-color: black;
+	background-color: pink;
 }
 
 span::selection {background-color: #e2e2e2;}
